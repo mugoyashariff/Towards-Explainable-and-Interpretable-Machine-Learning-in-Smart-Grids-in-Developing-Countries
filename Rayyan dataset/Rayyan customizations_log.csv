@@ -1,0 +1,765 @@
+created_at,user_id,user_email,article_id,key,value
+2025-07-06T17:42:12.904Z,980933,mugoyashariff@gmail.com,263222913,included,1
+2025-07-14T05:52:23.599Z,980933,mugoyashariff@gmail.com,263222918,included,1
+2025-07-14T05:52:56.621Z,980933,mugoyashariff@gmail.com,263222920,included,1
+2025-07-14T05:53:15.841Z,980933,mugoyashariff@gmail.com,263222924,included,1
+2025-07-18T20:34:52.215Z,1040158,gmuliika.sci@busitema.ac.ug,263222955,included,1
+2025-07-19T18:11:10.636Z,1040158,gmuliika.sci@busitema.ac.ug,263222968,included,1
+2025-07-19T18:16:20.330Z,1040158,gmuliika.sci@busitema.ac.ug,263223079,included,1
+2025-07-19T18:32:21.923Z,1040158,gmuliika.sci@busitema.ac.ug,263223041,included,1
+2025-07-19T18:32:39.591Z,1040158,gmuliika.sci@busitema.ac.ug,263223046,included,1
+2025-07-19T19:01:43.007Z,1040158,gmuliika.sci@busitema.ac.ug,263223189,included,0
+2025-07-19T19:01:55.527Z,1040158,gmuliika.sci@busitema.ac.ug,263223189,included,1
+2025-07-19T19:06:15.319Z,1040158,gmuliika.sci@busitema.ac.ug,263223267,included,1
+2025-08-05T06:49:38.713Z,1040158,gmuliika.sci@busitema.ac.ug,263223001,included,1
+2025-08-05T06:50:15.862Z,1040158,gmuliika.sci@busitema.ac.ug,263223008,included,1
+2025-08-05T06:50:27.719Z,1040158,gmuliika.sci@busitema.ac.ug,263223009,included,1
+2025-08-05T06:50:53.198Z,1040158,gmuliika.sci@busitema.ac.ug,263223013,included,1
+2025-08-05T06:57:29.920Z,980933,mugoyashariff@gmail.com,263222951,included,1
+2025-08-05T07:05:50.043Z,980933,mugoyashariff@gmail.com,263223140,included,1
+2025-08-05T07:07:45.116Z,980933,mugoyashariff@gmail.com,263223219,included,1
+2025-08-05T07:14:50.360Z,980933,mugoyashariff@gmail.com,263223303,included,0
+2025-08-06T05:43:46.454Z,980933,mugoyashariff@gmail.com,263223015,included,1
+2025-08-06T05:46:00.558Z,980933,mugoyashariff@gmail.com,263223147,included,1
+2025-08-06T05:46:54.530Z,980933,mugoyashariff@gmail.com,263223179,included,0
+2025-08-06T05:48:03.461Z,980933,mugoyashariff@gmail.com,263223196,included,1
+2025-08-06T06:07:57.785Z,980933,mugoyashariff@gmail.com,263223310,included,0
+2025-08-06T06:39:14.939Z,980933,mugoyashariff@gmail.com,263223317,included,0
+2025-08-06T06:39:38.205Z,980933,mugoyashariff@gmail.com,263223322,included,1
+2025-08-06T06:42:06.508Z,980933,mugoyashariff@gmail.com,263223398,included,1
+2025-08-06T06:45:28.788Z,980933,mugoyashariff@gmail.com,263223425,included,0
+2025-08-06T06:46:05.412Z,980933,mugoyashariff@gmail.com,263223430,included,0
+2025-08-06T06:47:15.281Z,980933,mugoyashariff@gmail.com,263223481,included,1
+2025-08-06T07:22:14.418Z,980933,mugoyashariff@gmail.com,263223451,included,1
+2025-08-06T07:23:39.621Z,980933,mugoyashariff@gmail.com,263223466,included,0
+2025-08-06T08:24:59.643Z,980933,mugoyashariff@gmail.com,263223630,included,1
+2025-08-06T08:25:11.414Z,980933,mugoyashariff@gmail.com,263223634,included,0
+2025-08-06T08:26:41.470Z,980933,mugoyashariff@gmail.com,263223510,included,1
+2025-08-06T08:29:07.057Z,980933,mugoyashariff@gmail.com,263223674,included,1
+2025-08-06T08:59:08.842Z,980933,mugoyashariff@gmail.com,263224805,included,0
+2025-08-06T09:03:41.005Z,980933,mugoyashariff@gmail.com,263224862,included,1
+2025-08-07T06:42:20.370Z,980933,mugoyashariff@gmail.com,263223179,included,1
+2025-08-07T08:53:32.470Z,980933,mugoyashariff@gmail.com,263223303,included,0
+2025-08-07T08:53:41.570Z,980933,mugoyashariff@gmail.com,263223303,included,1
+2025-08-08T05:50:12.784Z,980933,mugoyashariff@gmail.com,263223310,included,1
+2025-08-08T05:55:09.856Z,980933,mugoyashariff@gmail.com,263223317,included,1
+2025-08-09T19:53:31.547Z,1040158,gmuliika.sci@busitema.ac.ug,263223466,included,1
+2025-08-11T13:24:56.024Z,980933,mugoyashariff@gmail.com,263223425,included,1
+2025-08-11T13:32:12.376Z,980933,mugoyashariff@gmail.com,263223430,included,1
+2025-08-11T13:39:23.619Z,980933,mugoyashariff@gmail.com,263223466,included,1
+2025-08-12T06:25:26.674Z,980933,mugoyashariff@gmail.com,263223634,included,1
+2025-08-12T08:50:50.453Z,980933,mugoyashariff@gmail.com,263224805,included,1
+2025-09-05T05:41:26.747Z,980933,mugoyashariff@gmail.com,263222913,"""Include in final study""",1
+2025-09-05T05:41:29.656Z,980933,mugoyashariff@gmail.com,263222913,included,1
+2025-09-05T05:44:55.302Z,980933,mugoyashariff@gmail.com,263222918,"""Include in final study""",1
+2025-09-05T05:44:57.779Z,980933,mugoyashariff@gmail.com,263222918,included,1
+2025-09-05T05:47:27.590Z,980933,mugoyashariff@gmail.com,263222920,"""Include in final study""",1
+2025-09-05T05:47:30.303Z,980933,mugoyashariff@gmail.com,263222920,included,1
+2025-09-05T05:50:50.526Z,980933,mugoyashariff@gmail.com,263222924,"""Include in final study""",1
+2025-09-05T05:50:53.260Z,980933,mugoyashariff@gmail.com,263222924,included,1
+2025-09-05T06:56:17.329Z,980933,mugoyashariff@gmail.com,263222951,"""Include in final study""",1
+2025-09-05T06:57:04.389Z,980933,mugoyashariff@gmail.com,263222951,included,1
+2025-09-11T06:19:13.928Z,980933,mugoyashariff@gmail.com,263222955,"""Include in the final study but no open source pdf""",1
+2025-09-11T06:19:41.138Z,980933,mugoyashariff@gmail.com,263222955,"""PDF found in IEEE""",1
+2025-09-11T06:20:57.444Z,980933,mugoyashariff@gmail.com,263222955,"""Include in the final study but no open source pdf""",deleted
+2025-09-11T06:20:57.451Z,980933,mugoyashariff@gmail.com,263222955,"""PDF found in IEEE""",deleted
+2025-09-11T06:21:27.921Z,980933,mugoyashariff@gmail.com,263222955,"""Include in final study""",1
+2025-09-11T07:44:15.044Z,980933,mugoyashariff@gmail.com,263222968,"""Include in final study""",1
+2025-09-11T07:44:17.529Z,980933,mugoyashariff@gmail.com,263222968,included,1
+2025-09-14T09:53:28.918Z,980933,mugoyashariff@gmail.com,263223001,"""Include in final study""",1
+2025-09-14T10:03:14.323Z,980933,mugoyashariff@gmail.com,263223008,"""Include in final study""",1
+2025-09-14T10:04:40.750Z,980933,mugoyashariff@gmail.com,263223009,"""Include in final study""",1
+2025-09-14T10:05:16.730Z,980933,mugoyashariff@gmail.com,263223009,included,1
+2025-09-14T10:09:02.612Z,980933,mugoyashariff@gmail.com,263223013,"""Include in final study""",1
+2025-09-14T10:09:36.403Z,980933,mugoyashariff@gmail.com,263223013,included,1
+2025-09-14T10:11:31.615Z,980933,mugoyashariff@gmail.com,263223015,"""Include in final study""",1
+2025-09-14T10:24:48.069Z,980933,mugoyashariff@gmail.com,263223041,"""Include in final study""",1
+2025-09-15T06:02:50.809Z,980933,mugoyashariff@gmail.com,263223041,included,1
+2025-09-15T06:14:37.784Z,980933,mugoyashariff@gmail.com,263223046,"""Include in final study""",1
+2025-09-15T07:38:20.282Z,980933,mugoyashariff@gmail.com,263223079,"""Include in final study""",1
+2025-09-15T07:39:49.950Z,980933,mugoyashariff@gmail.com,263223079,included,1
+2025-09-15T07:41:21.173Z,980933,mugoyashariff@gmail.com,263223079,"""African (Resource-constrained) Area research""",1
+2025-09-15T07:41:35.628Z,980933,mugoyashariff@gmail.com,263223079,included,1
+2025-09-15T13:51:11.945Z,980933,mugoyashariff@gmail.com,263223140,"""Include in final study""",1
+2025-09-15T14:00:34.380Z,980933,mugoyashariff@gmail.com,263223147,"""Include in final study""",1
+2025-09-15T14:00:37.912Z,980933,mugoyashariff@gmail.com,263223147,included,1
+2025-09-15T15:31:27.715Z,980933,mugoyashariff@gmail.com,263223179,"""Include in final study""",1
+2025-09-15T15:31:31.958Z,980933,mugoyashariff@gmail.com,263223179,included,1
+2025-09-15T15:36:37.261Z,980933,mugoyashariff@gmail.com,263223179,included,1
+2025-09-15T15:51:22.238Z,980933,mugoyashariff@gmail.com,263223189,"""Include in final study""",1
+2025-09-15T15:58:25.538Z,980933,mugoyashariff@gmail.com,263223189,included,1
+2025-09-16T07:35:42.306Z,980933,mugoyashariff@gmail.com,263223189,included,1
+2025-09-16T07:40:03.601Z,980933,mugoyashariff@gmail.com,263223196,"""Include in final study""",1
+2025-09-20T12:33:35.469Z,980933,mugoyashariff@gmail.com,263223219,"""Include in final study""",1
+2025-09-20T12:34:39.626Z,980933,mugoyashariff@gmail.com,263223219,included,1
+2025-09-20T12:37:12.038Z,980933,mugoyashariff@gmail.com,263223219,"""Include in final study""",1
+2025-09-20T13:42:44.842Z,980933,mugoyashariff@gmail.com,263223219,included,1
+2025-09-20T15:24:33.640Z,980933,mugoyashariff@gmail.com,263223267,"""Include in final study""",1
+2025-09-20T15:24:33.647Z,980933,mugoyashariff@gmail.com,263223267,"""African (Resource-constrained) Area research""",1
+2025-09-20T15:54:44.861Z,980933,mugoyashariff@gmail.com,263223317,included,1
+2025-09-20T18:13:11.203Z,980933,mugoyashariff@gmail.com,263223303,"""Include in final study""",1
+2025-09-20T18:13:11.218Z,980933,mugoyashariff@gmail.com,263223303,included,1
+2025-09-20T19:06:44.906Z,980933,mugoyashariff@gmail.com,263223310,"""Include in final study""",1
+2025-09-20T19:07:25.878Z,980933,mugoyashariff@gmail.com,263223310,included,1
+2025-09-20T19:19:11.146Z,980933,mugoyashariff@gmail.com,263223317,"""Include in final study""",1
+2025-09-20T19:19:16.574Z,980933,mugoyashariff@gmail.com,263223317,included,1
+2025-09-21T04:37:54.674Z,980933,mugoyashariff@gmail.com,263223303,included,1
+2025-09-21T04:38:00.055Z,980933,mugoyashariff@gmail.com,263223310,included,1
+2025-09-21T04:38:09.912Z,980933,mugoyashariff@gmail.com,263223317,included,1
+2025-09-21T04:41:59.852Z,980933,mugoyashariff@gmail.com,263223322,"""Include in final study""",1
+2025-09-21T05:55:54.652Z,980933,mugoyashariff@gmail.com,263223398,"""Include in final study""",1
+2025-09-21T06:18:58.362Z,980933,mugoyashariff@gmail.com,263223425,"""Include in final study""",1
+2025-09-21T06:19:02.764Z,980933,mugoyashariff@gmail.com,263223425,included,1
+2025-09-21T06:27:55.135Z,980933,mugoyashariff@gmail.com,263223430,"""Include in final study""",1
+2025-09-21T06:28:01.974Z,980933,mugoyashariff@gmail.com,263223430,included,1
+2025-09-21T06:40:33.351Z,980933,mugoyashariff@gmail.com,263223451,"""Include in final study""",1
+2025-09-21T06:40:33.358Z,980933,mugoyashariff@gmail.com,263223451,"""African (Resource-constrained) Area research""",1
+2025-09-21T06:45:59.270Z,980933,mugoyashariff@gmail.com,263223481,included,1
+2025-09-21T06:54:39.096Z,980933,mugoyashariff@gmail.com,263223466,"""Include in final study""",1
+2025-09-21T06:54:42.083Z,980933,mugoyashariff@gmail.com,263223466,included,1
+2025-09-21T07:14:18.317Z,980933,mugoyashariff@gmail.com,263223481,"""Include in final study""",1
+2025-09-21T07:25:23.278Z,980933,mugoyashariff@gmail.com,263223510,"""Include in final study""",1
+2025-09-22T07:55:29.764Z,980933,mugoyashariff@gmail.com,263223630,"""Include in final study""",1
+2025-09-22T08:10:04.893Z,980933,mugoyashariff@gmail.com,263223630,included,1
+2025-09-22T08:44:58.895Z,980933,mugoyashariff@gmail.com,263223634,"""Include in final study""",1
+2025-09-22T08:45:02.445Z,980933,mugoyashariff@gmail.com,263223634,included,1
+2025-09-22T12:33:38.316Z,980933,mugoyashariff@gmail.com,263223674,"""Include in final study""",1
+2025-09-23T07:05:40.864Z,980933,mugoyashariff@gmail.com,263224805,"""Include in final study""",1
+2025-09-23T07:06:41.378Z,980933,mugoyashariff@gmail.com,263224805,included,1
+2025-09-23T07:12:58.822Z,980933,mugoyashariff@gmail.com,263224862,"""Include in final study""",1
+2025-09-23T07:12:58.832Z,980933,mugoyashariff@gmail.com,263224862,"""African (Resource-constrained) Area research""",1
+2025-09-23T07:22:50.779Z,980933,mugoyashariff@gmail.com,263222913,included,1
+2025-09-23T07:23:23.512Z,980933,mugoyashariff@gmail.com,263222918,"""African (Resource-constrained) Area research""",1
+2025-09-23T07:23:26.954Z,980933,mugoyashariff@gmail.com,263222918,included,1
+2025-09-23T07:23:59.757Z,980933,mugoyashariff@gmail.com,263222920,included,1
+2025-09-23T07:24:39.843Z,980933,mugoyashariff@gmail.com,263222924,"""African (Resource-constrained) Area research""",1
+2025-09-23T07:24:43.385Z,980933,mugoyashariff@gmail.com,263222924,included,1
+2025-09-23T07:30:36.021Z,980933,mugoyashariff@gmail.com,263222951,included,1
+2025-09-23T07:33:19.543Z,980933,mugoyashariff@gmail.com,263222955,included,1
+2025-09-23T07:36:27.551Z,980933,mugoyashariff@gmail.com,263222968,included,1
+2025-09-23T13:01:27.578Z,980933,mugoyashariff@gmail.com,263223015,included,1
+2025-09-23T13:24:29.081Z,980933,mugoyashariff@gmail.com,263223303,included,1
+2025-09-23T13:26:53.404Z,980933,mugoyashariff@gmail.com,263223425,included,1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222913,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222918,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222920,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222924,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222951,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222955,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263222968,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223001,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223008,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223009,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223013,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223015,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223041,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223046,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223079,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223140,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223147,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223179,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223189,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223196,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223219,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223267,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223303,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223310,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223317,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.849Z,0,rayyan@rayyan.ai,263223322,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223398,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223425,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223430,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223451,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223466,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223481,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223510,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223630,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223634,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263223674,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263224805,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:29:59.881Z,0,rayyan@rayyan.ai,263224862,"""__SYSTEM__STAGE__174680""",1
+2025-09-23T13:31:15.397Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:16.538Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:17.856Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:19.084Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:21.876Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:23.038Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:25.555Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:26.731Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:28.821Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:30.441Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:32.056Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:33.671Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:40.167Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:41.482Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:42.799Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:44.725Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:47.000Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:51.489Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:53.128Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:55.276Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:31:56.025Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:01.360Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:06.277Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:07.882Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:09.311Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:11.258Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:12.886Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:32:14.602Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:04.554Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:09.701Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:15.861Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:18.622Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:22.950Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:24.195Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:25.672Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:28.664Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:34:59.051Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:35:01.011Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:35:03.903Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:35:07.024Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__174680,1
+2025-09-23T13:35:09.181Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__174680,1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222913,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222918,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222920,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222924,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222951,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222955,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263222968,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223001,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223008,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223009,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223013,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223015,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223041,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223046,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223079,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223140,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223147,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223179,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223189,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223196,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223219,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223267,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223303,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223310,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223317,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.346Z,0,rayyan@rayyan.ai,263223322,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223398,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223425,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223430,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223451,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223466,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223481,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223510,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223630,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223634,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263223674,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263224805,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T11:24:15.411Z,0,rayyan@rayyan.ai,263224862,"""__SYSTEM__STAGE__182672""",1
+2025-10-09T12:21:05.836Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24360,"""Arifa Sultana, Aroop Bardalai, Kandarpa Kumar Sarma"""
+2025-10-09T12:21:06.213Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24356,""""""
+2025-10-09T12:21:06.573Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:21:06.944Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:21:07.314Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:21:07.690Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24361,""""""
+2025-10-09T12:21:07.958Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:25:27.691Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24360,"""Abdelkader Dairi, Fouzi Harrou, enamar Bouyeddou, Sidi-Mohammed Senouci, Ying Sun"""
+2025-10-09T12:25:28.079Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24356,""""""
+2025-10-09T12:25:28.449Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:25:28.719Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:25:29.003Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:25:29.278Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24365,"""Semi-supervised deep learning-driven anomaly detection schemes for cyber-attack detection in smart grids"""
+2025-10-09T12:25:29.555Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24361,""""""
+2025-10-09T12:25:29.857Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:39:03.916Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24356,"""KDD99"""
+2025-10-09T12:39:04.274Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:39:04.799Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:39:05.142Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:39:05.447Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:42:26.104Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24356,""""""
+2025-10-09T12:42:26.612Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:42:26.890Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:42:27.162Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:42:27.482Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:46:21.016Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24356,""""""
+2025-10-09T12:46:21.540Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:46:22.005Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:46:22.398Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:46:22.688Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:48:11.104Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24356,"""IEEE 14 and IEEE 30 bus system datasets"""
+2025-10-09T12:48:11.384Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:48:11.791Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:48:12.073Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:48:12.429Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672,0
+2025-10-09T12:58:44.121Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24356,"""Real-time PMU-based Wide Area Measurement System dataset"""
+2025-10-09T12:58:44.557Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T12:58:44.927Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T12:58:45.229Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T12:58:45.599Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:04:50.057Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24356,"""power system dataset, SGCC dataset, and UNSW-NB 15 datasetICS dataset, CICIDS 2017 dataset, """
+2025-10-09T13:04:50.580Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:04:51.031Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:04:51.424Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:04:51.804Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:12:01.536Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24356,"""IEEE 15 bus system dataset"""
+2025-10-09T13:12:01.922Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:12:02.327Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:12:02.701Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:12:03.099Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:12:50.371Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24356,"""IEEE-9 Bus test system dataset"""
+2025-10-09T13:12:50.746Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:12:51.373Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:12:51.674Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:12:52.088Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:17:14.143Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24356,"""SGCC, CICIDS 2017, ICS, and UNSW-NB 15 datasets"""
+2025-10-09T13:17:14.640Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:17:14.953Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:17:15.255Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:17:15.565Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:18:32.375Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24356,"""IEEE 14-bus system dataset"""
+2025-10-09T13:18:32.954Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:18:33.481Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:18:34.319Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:18:34.819Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:43:13.056Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24356,"""real-time dataset three months of data on energy demand consumption (Australian Energy Market Operator)"""
+2025-10-09T13:43:13.726Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:43:14.025Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:43:14.419Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:43:14.752Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672,0
+2025-10-09T13:54:02.456Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24356,"""Blockchain-Integrated WSN Dataset"""
+2025-10-09T13:54:03.006Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T13:54:03.320Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T13:54:03.702Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T13:54:04.067Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672,0
+2025-10-09T14:20:57.670Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24356,"""Real Cameroon Electricity Consumption dataset"""
+2025-10-09T14:20:58.081Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T14:20:58.432Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T14:20:58.827Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T14:20:59.237Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672,0
+2025-10-09T14:40:13.495Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24356,"""CICIDS2017, Power System, Bot-IoT datasets"""
+2025-10-09T14:40:13.951Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T14:40:14.460Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T14:40:14.912Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T14:40:15.260Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672,0
+2025-10-09T14:56:52.121Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24356,"""Electrical dataset (btained from the Archive of The Irish Social Science Data on Commission for Energy Regulation Smart Metering Project)"""
+2025-10-09T14:56:52.527Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T14:56:52.924Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T14:56:53.306Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T14:56:53.654Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672,0
+2025-10-09T15:13:04.322Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24356,"""Synchrophasor Dataset"""
+2025-10-09T15:13:04.845Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T15:13:05.170Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T15:13:05.527Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T15:13:05.933Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672,0
+2025-10-09T15:20:38.610Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24356,"""CNGC dataset"""
+2025-10-09T15:20:38.959Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24359,""""""
+2025-10-09T15:20:39.363Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24357,""""""
+2025-10-09T15:20:40.381Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24358,""""""
+2025-10-09T15:20:40.907Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672,0
+2025-10-26T09:43:27.655Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Smart Grid dataset\""}]"""
+2025-10-26T09:43:28.437Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672,0
+2025-10-26T09:53:50.808Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE 14 and IEEE 118 bus test case datasets\""}]"""
+2025-10-26T09:53:51.273Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:06:13.663Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE 14 and IEEE 118 bus test case system datasets\""}]"""
+2025-10-26T10:06:14.098Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:16:21.224Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""ISSDA CER dataset\""}]"""
+2025-10-26T10:16:21.661Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:22:31.726Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Power Grid dataset\""}]"""
+2025-10-26T10:22:32.250Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:26:23.345Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Recognizance-1: Electricity Bill Fraud Detection dataset\""}]"""
+2025-10-26T10:26:23.849Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:31:49.650Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE Garver 6-bus test system dataset and Nigerian 24-bus system dataset\""}]"""
+2025-10-26T10:31:49.967Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:44:14.236Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""SGCC Electricity Theft Detection dataset\""}]"""
+2025-10-26T10:44:14.749Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:53:10.444Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Power System dataset\""}]"""
+2025-10-26T10:53:10.824Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,0
+2025-10-26T10:58:11.972Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""New York Electricity System Data (NYISO) dataset\""}]"""
+2025-10-26T10:58:12.381Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:06:32.489Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""fuel consumption dataset obtained from teleInfra base stations in Cameroon\""}]"""
+2025-10-26T11:06:32.915Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:15:24.901Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Electrical Grid Stability Simulated Dataset\""}]"""
+2025-10-26T11:15:25.283Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""ANN\""}]"""
+2025-10-26T11:15:25.674Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:16:58.453Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""SGCC Electricity consumption dataset\""}]"""
+2025-10-26T11:16:58.838Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:17:34.998Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""CICIDS2017 dataset\""}]"""
+2025-10-26T11:17:35.398Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:21:23.091Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""NSL-KDD dataset\""}]"""
+2025-10-26T11:21:23.487Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:24:06.549Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""SGCC Electricity consumption dataset\""}]"""
+2025-10-26T11:24:06.994Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:33:15.590Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Novel ARAD dataset\""}]"""
+2025-10-26T11:33:16.011Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:39:05.998Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""SGCC Electricity consumption dataset\""}]"""
+2025-10-26T11:39:06.510Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:42:18.972Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""TeleInfra dataset (Cameroon)\""}]"""
+2025-10-26T11:42:19.592Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:50:01.741Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Power system attack dataset\""}]"""
+2025-10-26T11:50:02.067Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:52:11.217Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""BUT-IEC104-I, VRT-IEC 104, and GICS-MMS datasets\""}]"""
+2025-10-26T11:52:11.617Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:57:17.002Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""N/A\""}]"""
+2025-10-26T11:57:17.417Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-26T11:58:32.695Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Smart Grid Intrusion detection dataset\""}]"""
+2025-10-26T11:58:33.102Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:03:06.358Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""ANN\""}]"""
+2025-10-27T07:03:06.806Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:06:13.529Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""AE, GRU, GAN, RNN\""}]"""
+2025-10-27T07:06:13.933Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:08:25.392Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, DT, SVM, Multi layer Perceptron Neural Network (MLPNN)\""}]"""
+2025-10-27T07:08:25.857Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:13:13.053Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:17:24.550Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""KDD99 and NSLKDD datasets\""}]"""
+2025-10-27T07:17:25.032Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, KNN, ANN, DT\""}]"""
+2025-10-27T07:17:25.396Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:26:32.475Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, AE, CNN\""}]"""
+2025-10-27T07:26:32.927Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:29:17.977Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE 14 and IEEE 30 bus system datasets\""}]"""
+2025-10-27T07:29:19.749Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM\""}]"""
+2025-10-27T07:29:20.272Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:41:30.998Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Real-time PMU-based Wide Area Measurement System dataset\""}]"""
+2025-10-27T07:41:31.369Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM, ANN, LR, NB, RF\""}]"""
+2025-10-27T07:41:31.795Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:45:14.294Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""power system dataset, SGCC dataset, and UNSW-NB 15 datasetICS dataset, CICIDS 2017 dataset,\""}]"""
+2025-10-27T07:45:14.979Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""Kernel -based Extreme Neural Network\""}]"""
+2025-10-27T07:45:15.366Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:53:17.915Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE 15 bus system dataset\""}]"""
+2025-10-27T07:53:18.344Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""Secured DL algorithm with blockchain technology (BlockDeepNet)\""}]"""
+2025-10-27T07:53:18.761Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:54:51.257Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE-9 Bus test system dataset\""}]"""
+2025-10-27T07:54:51.730Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""ANN\""}]"""
+2025-10-27T07:54:52.126Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:57:34.583Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""SGCC, CICIDS 2017, ICS, and UNSW-NB 15 datasets\""}]"""
+2025-10-27T07:57:43.009Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Kernel - based Extreme Neural Network (KENN)\""}]"""
+2025-10-27T07:57:46.315Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T07:59:49.775Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""Kernel - based Extreme Neural Network (KENN)\""}]"""
+2025-10-27T07:59:50.829Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:00:14.416Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:00:41.315Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""-\""}]"""
+2025-10-27T08:00:41.721Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:00:58.576Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:04:16.453Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""IEEE 14-bus system dataset\""}]"""
+2025-10-27T08:04:17.372Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""LSTM, MLP, SVM\""}]"""
+2025-10-27T08:04:17.789Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:17:38.742Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""real-time dataset three months of data on energy demand consumption (Australian Energy Market Operator)\""}]"""
+2025-10-27T08:17:39.090Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN, LSTM, AE\""}]"""
+2025-10-27T08:17:39.783Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:18:27.989Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Blockchain-Integrated WSN Dataset\""}]"""
+2025-10-27T08:18:28.383Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""KNN, SVM, RF\""}]"""
+2025-10-27T08:18:29.011Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:28:06.726Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Real Cameroon Electricity Consumption dataset\""}]"""
+2025-10-27T08:28:07.151Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM\""}]"""
+2025-10-27T08:28:07.861Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:43:09.512Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""CICIDS2017, Power System, Bot-IoT datasets\""}]"""
+2025-10-27T08:43:09.929Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RNNs\""}]"""
+2025-10-27T08:43:10.349Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:45:33.630Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Electrical dataset (btained from the Archive of The Irish Social Science Data on Commission for Energy Regulation Smart Metering Project)\""}]"""
+2025-10-27T08:45:34.059Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""DT, RF\""}]"""
+2025-10-27T08:45:34.648Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:50:13.604Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Synchrophasor Dataset\""}]"""
+2025-10-27T08:50:13.970Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""DNN, SVM, RF, DT, Naïve Byes classifications (NBC)\""}]"""
+2025-10-27T08:50:14.467Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:52:02.072Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""CNGC dataset\""}]"""
+2025-10-27T08:52:02.434Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""MLP-GRU\""}]"""
+2025-10-27T08:52:02.782Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672,0
+2025-10-27T08:59:11.188Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN RF-FS, CNN RF-XGB, CNN RF-GBC, CNN RF-CBC, CNN RF-ABC,CNN RF-LGBM, CNN RF-HGBC\""}]"""
+2025-10-27T08:59:11.579Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:05:41.465Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN, CNN-LSTM, CNN-GRU\""}]"""
+2025-10-27T09:05:42.378Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:20:49.529Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""LSTM-TCN\""}]"""
+2025-10-27T09:20:49.958Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:26:00.162Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN-LSTM\""}]"""
+2025-10-27T09:26:00.580Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:29:19.084Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""GBT\""}]"""
+2025-10-27T09:29:20.084Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:33:40.860Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""BiGRU\""}]"""
+2025-10-27T09:33:41.408Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672,0
+2025-10-27T09:35:41.845Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM-MLPNN\""}]"""
+2025-10-27T09:35:42.370Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:03:47.676Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""RF has Increased training time and consumes a lot of resources; ANN is computationally expensive and requires more processor power\""}]"""
+2025-10-27T12:03:48.416Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, ANN\""}]"""
+2025-10-27T12:03:48.833Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""RF is less susceptible to noise, and has increased robustness; ANN has high efficiency and multitasking ability\""}]"""
+2025-10-27T12:03:49.213Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:09:05.387Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive  and more processing power required\""}]"""
+2025-10-27T12:09:05.813Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Multitasking ability and high efficiency\""}]"""
+2025-10-27T12:09:06.200Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:20:06.215Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""AE-GRU has high computational costs and largely depends on high quality consistent data; GAN-RNN have difficulties in training and high computational costs\""}]"""
+2025-10-27T12:20:06.641Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""AE-GRU, GAN-RNN\""}]"""
+2025-10-27T12:20:07.065Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""AE-GRU is efficient in training and resource usage, and its able to effectively capture both features and temporal dependencies; GAN-RNN improve effeciency\""}]"""
+2025-10-27T12:20:07.405Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:27:54.306Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High training time for SVM where as MLPNN requires high computational resources\""}]"""
+2025-10-27T12:27:54.691Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM, Multi layer Perceptron Neural Network (MLPNN)\""}]"""
+2025-10-27T12:27:55.052Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Better generalization capabilities\""}]"""
+2025-10-27T12:27:55.544Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:42:26.463Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Increased training time for RF, high computational cost for CNN, and AE struggles with noisy data\""}]"""
+2025-10-27T12:42:26.860Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Better interpretability, robust classification, and  improved feature extraction\""}]"""
+2025-10-27T12:42:27.238Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:45:33.377Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High training time, and Inefficient in handling large dimensional datasets\""}]"""
+2025-10-27T12:45:35.447Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to work under high dimensional space, and Suitable for both structured and unstructured data\""}]"""
+2025-10-27T12:45:36.105Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672,0
+2025-10-27T12:54:42.420Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Increased computational cost and difficulty in hyperparameter tuning\""}]"""
+2025-10-27T12:54:43.035Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Increased robustness and improved accuracy\""}]"""
+2025-10-27T12:54:43.632Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:01:46.706Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Sensitivity to outliers and heavy computation for large datasets\""}]"""
+2025-10-27T13:01:47.156Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Faster training speed and reduction in number of parameters to be tuned\""}]"""
+2025-10-27T13:01:47.606Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:15:02.306Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive and high latency time\""}]"""
+2025-10-27T13:15:02.777Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Elimination of Single Point of Failure, enhanced data integrity and security\""}]"""
+2025-10-27T13:15:03.272Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:16:28.374Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive  and more processing power required\""}]"""
+2025-10-27T13:16:29.070Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Multitasking ability and high efficiency\""}]"""
+2025-10-27T13:16:29.511Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:17:53.309Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Sensitivity to outliers and heavy computation for large datasets\""}]"""
+2025-10-27T13:17:54.342Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:18:26.700Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Faster training speed and reduction in number of parameters to be tuned\""}]"""
+2025-10-27T13:18:27.679Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:24:07.929Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive and difficulty in scaling\""}]"""
+2025-10-27T13:24:08.390Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""LSTM\""}]"""
+2025-10-27T13:24:08.864Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to to capture and remember long-term dependencies in sequential data\""}]"""
+2025-10-27T13:24:09.305Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:35:02.857Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive\""}]"""
+2025-10-27T13:35:03.372Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN-LSTM based AE\""}]"""
+2025-10-27T13:35:03.872Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability learn both spatial (local) and temporal (sequential) features from complex time-series data\""}]"""
+2025-10-27T13:35:04.378Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672,0
+2025-10-27T13:41:37.438Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""KNN has an increased complexity in handling large dimensional datasets,  SVM is inefficient in handling large dimensional datasets, and RF uses a lot of resources.\""}]"""
+2025-10-27T13:41:37.797Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""KNN is suitable for both regression and classification,  SVM is suitable for both structured and unstructured data, and RF is less susceptible to noise\""}]"""
+2025-10-27T13:41:38.260Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672,0
+2025-10-28T08:38:48.469Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Inefficient in handling large dimensional datasets, and high training time\""}]"""
+2025-10-28T08:38:49.006Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to work under high dimensional space, and suitable for both structured and unstructured data\""}]"""
+2025-10-28T08:38:49.427Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:03:20.857Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Bias towards recent data and vanishing gradients\""}]"""
+2025-10-28T09:03:21.357Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Effective sequence modeling, parameter sharing, and variable length Inputs/Outputs\""}]"""
+2025-10-28T09:03:21.756Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:10:47.825Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""RF has increased training time  and high resource consumption; while DT consumes a lot of time and tends to overfit\""}]"""
+2025-10-28T09:10:48.262Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""RF has increased robustness and less susceptible to noise; while DT has a better prediction rate and ability to handle non-linear data\""}]"""
+2025-10-28T09:10:48.615Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:16:53.346Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational costs\""}]"""
+2025-10-28T09:16:53.702Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Higher accuracy and robustness\""}]"""
+2025-10-28T09:16:54.062Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:19:39.017Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Higher computational cost and increased complexity\""}]"""
+2025-10-28T09:19:39.350Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Enhanced Feature Extraction and mitigation of vanishing gradients\""}]"""
+2025-10-28T09:19:39.934Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:22:12.235Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Increased complexity\""}]"""
+2025-10-28T09:22:12.609Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Robust classification and generalization\""}]"""
+2025-10-28T09:22:12.957Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:29:18.297Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Increased Complexity, slower prediction and high computational costs\""}]"""
+2025-10-28T09:29:18.707Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Excellent feature extraction and increased efficiency\""}]"""
+2025-10-28T09:29:19.114Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:49:56.527Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Difficulty in hyperparameter tuning and increased architectural complexity\""}]"""
+2025-10-28T09:49:56.919Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Excellent temporal feature extraction and ability to mitigate the vanishing gradient problem\""}]"""
+2025-10-28T09:49:57.571Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672,0
+2025-10-28T09:59:01.282Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational cost and time and increased architectural complexity\""}]"""
+2025-10-28T09:59:01.848Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Simultaneous spatial and temporal modeling; and automatic feature extraction\""}]"""
+2025-10-28T09:59:02.225Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672,0
+2025-10-28T10:02:21.863Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Slow training and prone to overfitting\""}]"""
+2025-10-28T10:02:22.794Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""High predictive accuracy and Robustness to outliers\""}]"""
+2025-10-28T10:02:23.185Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672,0
+2025-10-28T10:06:10.320Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Increased computational cost\""}]"""
+2025-10-28T10:06:10.800Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Complete context processing and faster training\""}]"""
+2025-10-28T10:06:11.136Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672,0
+2025-10-28T10:10:39.045Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Difficulty in hyperparameter tuning and high computational costs\""}]"""
+2025-10-28T10:10:39.402Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Enhanced predictive accuracy, generalization and superior feature handling\""}]"""
+2025-10-28T10:10:39.736Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:03:12.410Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational cost and time and increased architectural complexity\""}]"""
+2025-10-28T11:03:12.810Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN-LSTM\""}]"""
+2025-10-28T11:03:13.652Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:03:47.606Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Simultaneous spatial and temporal modeling; and automatic feature extraction\""}]"""
+2025-10-28T11:03:48.639Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:17:05.829Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, DT\""}]"""
+2025-10-28T11:17:06.174Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:17:46.197Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""RF has increased training time  and high resource consumption; while DT consumes a lot of time and tends to overfit\""}]"""
+2025-10-28T11:17:46.632Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:18:21.509Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""RF has increased robustness and less susceptible to noise; while DT has a better prediction rate and ability to handle non-linear data\""}]"""
+2025-10-28T11:18:21.890Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:25:45.992Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational cost and complex model architecture\""}]"""
+2025-10-28T11:25:47.089Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN with RUSBoost Manta Ray Foraging Optimization (rus-MRFO) and RUSBoost Bird Swarm Algorithm (rus-BSA)\""}]"""
+2025-10-28T11:25:47.436Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Superior handling of imbalanced data, better hyperparameter optimization, automatic feature extraction, and improved generalization\""}]"""
+2025-10-28T11:25:47.921Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:27:55.969Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""SVM, KNN, LR, and MLP\""}]"""
+2025-10-28T11:27:56.533Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:29:48.415Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""KNN is suitable for both regression and classification;\""}]"""
+2025-10-28T11:29:48.761Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:35:10.910Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""LR has a reduced performance rate and  high error rate;\""}]"""
+2025-10-28T11:35:11.586Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""KNN is suitable for both regression and classification; SVM has the ability to work under high dimensional space, and suitable for both structured and unstructured data; LR has an increased processing speed and minimal computational cost;\""}]"""
+2025-10-28T11:35:12.335Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:41:32.206Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""LR has a reduced performance rate and  high error rate; MLP is highly sensitive to feature scaling and requires extensive hyperparameter tuning; KNN has an increased complexity in handling large dimensional datasets.; and SVM has a high training time and its inefficient in handling large dimensional datasets\""}]"""
+2025-10-28T11:41:32.680Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""KNN is suitable for both regression and classification; SVM has the ability to work under high dimensional space, and suitable for both structured and unstructured data; LR has an increased processing speed and minimal computational cost; MLP is highly versatile for both classification and regression tasks\""}]"""
+2025-10-28T11:41:33.092Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:43:07.887Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Computationally expensive\""}]"""
+2025-10-28T11:43:08.240Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Multitasking ability and high efficiency\""}]"""
+2025-10-28T11:43:09.006Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:43:45.605Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN-AdaBoost\""}]"""
+2025-10-28T11:43:46.012Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:47:13.070Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High Computational Cost, and sensitivity to noisy data/outliers\""}]"""
+2025-10-28T11:47:13.715Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Higher Accuracy and Robustness; Effective with imbalanced data\""}]"""
+2025-10-28T11:47:14.117Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:50:09.765Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Design complexity\""}]"""
+2025-10-28T11:50:10.280Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""Hierarchical Deep Learning (HDL)\""}]"""
+2025-10-28T11:50:10.937Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Improved Accuracy and Feature Learning\""}]"""
+2025-10-28T11:50:11.345Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672,0
+2025-10-28T11:55:00.117Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational cost\""}]"""
+2025-10-28T11:55:00.650Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN, LSTM, GNN, RF\""}]"""
+2025-10-28T11:55:01.054Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to capture spatial, temporal, and relational dependencies\""}]"""
+2025-10-28T11:55:01.456Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:09:50.649Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""More complex and slower\""}]"""
+2025-10-28T13:09:51.909Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""LSTM, GRU, Bi-LSTM, BiGRU\""}]"""
+2025-10-28T13:09:52.416Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Capture long term dependencies and very accurate\""}]"""
+2025-10-28T13:09:52.938Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:17:47.494Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational costs\""}]"""
+2025-10-28T13:17:48.200Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""Stacked Ensemble\""}]"""
+2025-10-28T13:17:49.249Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""High accuracy\""}]"""
+2025-10-28T13:17:49.797Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:39:27.063Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""CNN-LSTM\""}]"""
+2025-10-28T13:39:27.647Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:40:07.482Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""High computational cost and time and increased architectural complexity\""}]"""
+2025-10-28T13:40:08.010Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:40:48.965Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Simultaneous spatial and temporal modeling; and automatic feature extraction\""}]"""
+2025-10-28T13:40:49.481Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:44:39.329Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""AE\""}]"""
+2025-10-28T13:44:39.899Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:46:51.150Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""Struggles with noisy data\""}]"""
+2025-10-28T13:46:51.674Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,0
+2025-10-28T13:50:20.171Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to perform unsupervised feature learning\""}]"""
+2025-10-28T13:50:20.723Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:16:38.440Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Only caters for FDI attack\""}]"""
+2025-10-29T11:16:38.986Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:23:15.667Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Robustness decreases in noisy data\""}]"""
+2025-10-29T11:23:16.146Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:33:04.161Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited Deep Learning Exploration, Single Feature Selection method (Particle Swarm Optimization), Limited Multi-Class Classification, No real world validation\""}]"""
+2025-10-29T11:33:04.775Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:43:22.964Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Study carried out in a simulated environment and computational requirements limitation\""}]"""
+2025-10-29T11:43:23.440Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:46:39.515Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""No real world data validation\""}]"""
+2025-10-29T11:46:40.041Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:49:21.597Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Reliance on pre-labeled data\""}]"""
+2025-10-29T11:49:22.154Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:52:31.152Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited attack coverage (DDoS)\""}]"""
+2025-10-29T11:52:31.740Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:58:50.631Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Struggles with novel, zero-day, or unseen attacks\""}]"""
+2025-10-29T11:58:51.153Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,0
+2025-10-29T11:59:31.679Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,0
+2025-10-29T12:08:18.626Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited scope of cyberattacks; large scale deployment is impractical under current conditions\""}]"""
+2025-10-29T12:08:19.052Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672,0
+2025-10-29T12:11:42.259Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real world implementation\""}]"""
+2025-10-29T12:11:42.746Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:01:14.982Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:01:33.426Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:14:00.109Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""No real-time fault detection capabilities\""}]"""
+2025-10-29T14:14:00.897Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:19:29.981Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""It only detects FDI attacks\""}]"""
+2025-10-29T14:19:30.381Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:28:43.630Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Does not fully address the non-technical and structural vulnerabilities of the smart meter system\""}]"""
+2025-10-29T14:28:44.402Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:36:16.416Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""real world dataset of three months of data on energy demand consumption (Australian Energy Market Operator)\""}]"""
+2025-10-29T14:36:17.907Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Scope of cyberattack limited to FDI attacks\""}]"""
+2025-10-29T14:36:18.593Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:44:46.751Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Slow to handle large real-time volumes of data\""}]"""
+2025-10-29T14:44:47.334Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:50:36.489Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Imbalanced data and difficulty to adapt the approach to other smart meters besides those experimented on\""}]"""
+2025-10-29T14:50:37.126Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672,0
+2025-10-29T14:57:07.335Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited attack coverage (focuses only on simple binary classification)\""}]"""
+2025-10-29T14:57:08.664Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672,0
+2025-10-29T15:03:51.679Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited functionality in real-word due to need for a large, pre-labeled training dataset\""}]"""
+2025-10-29T15:03:52.041Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672,0
+2025-10-29T15:07:00.085Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Cyberattack scope is limited to FDI attacks\""}]"""
+2025-10-29T15:07:01.004Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672,0
+2025-10-29T15:11:35.623Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Developed algorithm cannot identify, locate, or eliminate present or future intrusion\""}]"""
+2025-10-29T15:11:36.491Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672,0
+2025-10-29T15:15:44.957Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Inability to capture very small electricity consumption trends\""}]"""
+2025-10-29T15:15:45.281Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672,0
+2025-10-29T15:28:49.337Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Need for validation on heterogeneous and resource-constrained systems\""}]"""
+2025-10-29T15:28:49.907Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:15:06.981Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Cyberattack detection limited to only FDI attack\""}]"""
+2025-10-30T07:15:08.041Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:18:47.573Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Higher time complexity\""}]"""
+2025-10-30T07:18:48.287Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:22:00.567Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited generalizability due to restriction of evaluation to power grid dataset\""}]"""
+2025-10-30T07:22:01.250Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:25:16.568Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real-world implementation\""}]"""
+2025-10-30T07:25:17.299Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:27:20.021Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real-time anomaly detection\""}]"""
+2025-10-30T07:27:20.703Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:29:24.279Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real-world application\""}]"""
+2025-10-30T07:29:24.950Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:30:43.696Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real-time attack detection\""}]"""
+2025-10-30T07:30:44.237Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:35:50.974Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Inability to detect novel or zero-day anomalies\""}]"""
+2025-10-30T07:35:51.766Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:38:50.539Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited generalizability\""}]"""
+2025-10-30T07:38:51.219Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Multitasking ability, explainability,  and high efficiency\""}]"""
+2025-10-30T07:38:51.568Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:41:32.486Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Cannot detect abnormalities in energy consumption patterns\""}]"""
+2025-10-30T07:41:32.974Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:44:15.103Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Detects only cyberattacks in smart meters\""}]"""
+2025-10-30T07:44:15.779Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:55:21.834Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of practical implementation in real-time SCADA\""}]"""
+2025-10-30T07:55:22.260Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672__QUESTION__24358,"""[{\""text\"":\""Ability to capture spatial, temporal, and relational dependencies; explainability of decisions\""}]"""
+2025-10-30T07:55:22.628Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:56:38.377Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited generalizability\""}]"""
+2025-10-30T07:56:38.816Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672,0
+2025-10-30T07:58:29.590Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Inability to detect novel or zero-day cyberattacks\""}]"""
+2025-10-30T07:58:30.174Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672,0
+2025-10-30T08:08:29.032Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Computational complexity of hybrid model; Since it uses a single over-sampling approach, it may not be optimal for all types of theft patterns\""}]"""
+2025-10-30T08:08:29.580Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,0
+2025-10-30T08:21:07.731Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Limited generalizability\""}]"""
+2025-10-30T08:21:08.281Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,0
+2025-10-30T08:26:10.081Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Packet traffic data from a GNS3 simulated smart grid SCADA network\""}]"""
+2025-10-30T08:26:10.525Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,0
+2025-10-30T08:26:41.537Z,980933,mugoyashariff@gmail.com,263222913,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:26:52.771Z,980933,mugoyashariff@gmail.com,263222918,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:05.118Z,980933,mugoyashariff@gmail.com,263222920,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:09.393Z,980933,mugoyashariff@gmail.com,263222924,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:13.372Z,980933,mugoyashariff@gmail.com,263222951,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:17.089Z,980933,mugoyashariff@gmail.com,263222955,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:21.245Z,980933,mugoyashariff@gmail.com,263222968,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:24.894Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:38.291Z,980933,mugoyashariff@gmail.com,263223001,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:27:49.361Z,980933,mugoyashariff@gmail.com,263223008,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:11.098Z,980933,mugoyashariff@gmail.com,263223009,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:16.674Z,980933,mugoyashariff@gmail.com,263223013,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:21.216Z,980933,mugoyashariff@gmail.com,263223015,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:25.523Z,980933,mugoyashariff@gmail.com,263223041,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:33.137Z,980933,mugoyashariff@gmail.com,263223046,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:29:40.882Z,980933,mugoyashariff@gmail.com,263223079,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:29.853Z,980933,mugoyashariff@gmail.com,263223140,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:35.960Z,980933,mugoyashariff@gmail.com,263223147,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:41.670Z,980933,mugoyashariff@gmail.com,263223179,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:45.898Z,980933,mugoyashariff@gmail.com,263223189,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:49.158Z,980933,mugoyashariff@gmail.com,263223196,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:51.961Z,980933,mugoyashariff@gmail.com,263223219,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:54.409Z,980933,mugoyashariff@gmail.com,263223267,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:31:56.929Z,980933,mugoyashariff@gmail.com,263223303,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:00.140Z,980933,mugoyashariff@gmail.com,263223310,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:02.679Z,980933,mugoyashariff@gmail.com,263223317,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:06.142Z,980933,mugoyashariff@gmail.com,263223322,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:09.058Z,980933,mugoyashariff@gmail.com,263223398,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:12.098Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:15.388Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:20.060Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:26.332Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:30.169Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:38.896Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:41.039Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:46.294Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:32:58.728Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:10.876Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:26.238Z,980933,mugoyashariff@gmail.com,263223430,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:28.769Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24356,"""[{\""text\"":\""Power System dataset\""}]"""
+2025-10-30T08:33:34.278Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__33859,"""[{\""text\"":\""Lack of real-world application\""}]"""
+2025-10-30T08:33:38.563Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24359,"""[{\""text\"":\""RF has increased training time  and high resource consumption; while DT consumes a lot of time and tends to overfit\""}]"""
+2025-10-30T08:33:41.281Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:42.257Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:44.126Z,980933,mugoyashariff@gmail.com,263223425,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:33:45.408Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672__QUESTION__24357,"""[{\""text\"":\""RF, DT\""}]"""
+2025-10-30T08:34:17.491Z,980933,mugoyashariff@gmail.com,263223451,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:21.053Z,980933,mugoyashariff@gmail.com,263223466,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:25.023Z,980933,mugoyashariff@gmail.com,263223481,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:28.050Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:31.846Z,980933,mugoyashariff@gmail.com,263223510,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:35.470Z,980933,mugoyashariff@gmail.com,263223630,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:39.313Z,980933,mugoyashariff@gmail.com,263223634,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:47.746Z,980933,mugoyashariff@gmail.com,263223674,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:50.354Z,980933,mugoyashariff@gmail.com,263224805,included__SYSTEM__STAGE__182672,1
+2025-10-30T08:34:52.630Z,980933,mugoyashariff@gmail.com,263224862,included__SYSTEM__STAGE__182672,1
